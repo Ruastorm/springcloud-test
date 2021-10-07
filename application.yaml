@@ -6,7 +6,11 @@ spring:
 spring:
   profiles: dev
   application: springcloud-config-dev
+<<<<<<< HEAD
   name: springcloud-config-dev
+=======
+  name:
+>>>>>>> 3333d33 (新建txt文件)
 
 ---
 spring:
